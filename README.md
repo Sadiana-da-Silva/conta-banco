@@ -1,5 +1,8 @@
 # Descrição do projeto:
-<p> 🎯 Desafio proposto no curso de Java Básico com Spring Boot da plataforma Digital innovation One, em parceira com a Claro. </p>
+🎯 Desafio proposto no curso de Java Básico com Spring Boot da plataforma Digital innovation One, em parceira com a Claro.
+
+## Funcionalidades:
+📲 Simula uma conta bancária através do terminal/console. Com base nos dados fornecidos pelo usuário, exibe uma mensagem final personalizada.
 
 ## Conteúdos relacionados:
 - Lógica de programação e POO;
